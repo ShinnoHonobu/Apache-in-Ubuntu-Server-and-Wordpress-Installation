@@ -140,6 +140,7 @@ This repository contains how to Install and configure Ubuntu Server and Install 
 	![PP20](https://github.com/ShinnoHonobu/Apache-in-Ubuntu-Server-and-Wordpress-Installation/assets/113822318/62b0f317-9f92-49e2-861a-fcc99904967c)
 
 ## Example Post in Wordpress
+Here are the example of the feeds in Wordpress : 
 	![PP22](https://github.com/ShinnoHonobu/Apache-in-Ubuntu-Server-and-Wordpress-Installation/assets/113822318/75b46a05-2122-453c-b587-ac2fca13772a)
 	![PP21](https://github.com/ShinnoHonobu/Apache-in-Ubuntu-Server-and-Wordpress-Installation/assets/113822318/d0d174e2-f19c-47fd-840d-157b665b01b2)
 
