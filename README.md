@@ -1,4 +1,4 @@
-![PP19](https://github.com/ShinnoHonobu/Apache-in-Ubuntu-Server-and-Wordpress-Installation/assets/113822318/b9d24a52-4d38-4eb8-8f18-e0eccb88e445)![PP14](https://github.com/ShinnoHonobu/Apache-in-Ubuntu-Server-and-Wordpress-Installation/assets/113822318/389f0311-a899-4b9c-8ee3-11e8808940e8)# Apache-in-Ubuntu-Server-and-Wordpress-Installation
+# Apache-in-Ubuntu-Server-and-Wordpress-Installation
 This repository contains how to Install and configure Ubuntu Server and Install Wordpress in Ubuntu Server
 
 ## Steps to Install Apache Hadoop on Ubuntu Server
