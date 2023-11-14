@@ -35,3 +35,28 @@ This repository contains how to Install and configure Ubuntu Server and Install 
 	![PP7](https://github.com/ShinnoHonobu/Apache-in-Ubuntu-Server-and-Wordpress-Installation/assets/113822318/577fe4ec-6805-499d-bd67-82bd4c92a83a)
 
 8. Apache Hadoop has been installed on Ubuntu Server
+
+## Steps to run a Remote Server on Ubuntu Server
+1. Make sure Ubuntu Server has been installed, which in this experiment was installed on Virtualbox, and SSH has been installed on Ubuntu Server and make sure the connected network is in a stable condition. And of course Ubuntu Server must be active.
+
+2. Before starting remotely on the server, you need to find out the IP of the Ubuntu Server you are running, with the command below.
+	```
+	hostname -I
+	```
+3. First of all, you can remote the Ubuntu Server via Command Prompt from Windows, with the command below.
+	```
+	ssh master@192.168.56.111
+	ifconfig
+	```
+4. Then, remote server can also be done in PuTTY, with the command below.
+	![PP9](https://github.com/ShinnoHonobu/Apache-in-Ubuntu-Server-and-Wordpress-Installation/assets/113822318/30eb471b-eb12-49ec-bdeb-d9c17bf02af5)
+	```
+	ssh master@192.168.56.111
+	ll
+	```
+5. Apart from that, remote server can also be done on Ubuntu Desktop, with the same command as remote in CMD as below.
+	![PP11](https://github.com/ShinnoHonobu/Apache-in-Ubuntu-Server-and-Wordpress-Installation/assets/113822318/d51fc68f-4ad0-428b-b030-938923f81b58)
+	```
+	ssh master@192.168.56.111
+	ls
+	```
